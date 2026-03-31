@@ -67,6 +67,11 @@ Running the script prints a full performance summary table and saves `portfolio_
 - **Risk/return scatter** — plots each stock and the portfolio on a volatility vs return axis
 
 ---
+## Results
+
+Example portfolio cumulative returns and stock contributions:
+
+![Portfolio Risk Plot](portfolio_risk_results.png)
 
 ## Key Limitations
 
